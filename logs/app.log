@@ -1,0 +1,62 @@
+2024-08-03 13:01:22,238:INFO:Data loaded successfully.
+2024-08-03 13:01:22,251:INFO:Data preprocessed successfully.
+2024-08-03 13:02:06,877:INFO:Data loaded successfully.
+2024-08-03 13:02:06,889:INFO:Data preprocessed successfully.
+2024-08-03 13:02:10,953:ERROR:An error occurred: no numeric data to plot
+2024-08-03 13:02:42,645:INFO:Data loaded successfully.
+2024-08-03 13:02:42,655:INFO:Data preprocessed successfully.
+2024-08-03 13:02:51,041:INFO:EDA completed
+2024-08-03 13:02:51,049:INFO:Data split into train and test sets.
+2024-08-03 13:02:51,062:INFO:Data scaled successfully.
+2024-08-03 13:02:51,074:INFO:Logistic Regression model trained successfully.
+2024-08-03 13:02:51,348:INFO:Random Forest model trained successfully.
+2024-08-03 13:02:52,602:INFO:Random Forest Cross-Validation Scores: [0.77777778 0.7755102  0.79591837 0.76530612 0.79591837]
+2024-08-03 13:02:52,604:INFO:Random Forest Mean Accuracy: 0.7820861678004535
+2024-08-03 13:02:52,604:INFO:Random Forest Standard Deviation: 0.012050186172867515
+2024-08-03 13:02:52,606:INFO:Logistic Regression evaluation completed.
+2024-08-03 13:02:52,607:INFO:Accuracy: 0.7804878048780488
+2024-08-03 13:02:52,607:INFO:Confusion Matrix:
+array([[17, 25],
+       [ 2, 79]], dtype=int64)
+2024-08-03 13:02:52,624:INFO:Random Forest evaluation completed. Accuracy: 0.7804878048780488
+2024-08-03 13:02:52,625:INFO:Random Forest Confusion Matrix:
+array([[19, 23],
+       [ 4, 77]], dtype=int64)
+2024-08-04 12:33:55,456:INFO:Data loaded successfully.
+2024-08-04 12:33:55,474:INFO:Data preprocessed successfully.
+2024-08-04 12:33:58,086:INFO:EDA completed
+2024-08-04 12:33:58,091:INFO:Data split into train and test sets.
+2024-08-04 12:33:58,100:INFO:Data scaled successfully.
+2024-08-04 12:33:58,116:INFO:Logistic Regression model trained successfully.
+2024-08-04 12:33:58,302:INFO:Random Forest model trained successfully.
+2024-08-04 12:33:59,185:INFO:Random Forest Cross-Validation Scores: [0.77777778 0.7755102  0.79591837 0.76530612 0.79591837]
+2024-08-04 12:33:59,185:INFO:Random Forest Mean Accuracy: 0.7820861678004535
+2024-08-04 12:33:59,185:INFO:Random Forest Standard Deviation: 0.012050186172867515
+2024-08-04 12:33:59,188:INFO:Logistic Regression evaluation completed.
+2024-08-04 12:33:59,188:INFO:Accuracy: 0.7804878048780488
+2024-08-04 12:33:59,188:INFO:Confusion Matrix:
+array([[17, 25],
+       [ 2, 79]], dtype=int64)
+2024-08-04 12:33:59,201:INFO:Random Forest evaluation completed. Accuracy: 0.7804878048780488
+2024-08-04 12:33:59,202:INFO:Random Forest Confusion Matrix:
+array([[19, 23],
+       [ 4, 77]], dtype=int64)
+2024-08-04 12:37:07,339:INFO:Data loaded successfully.
+2024-08-04 12:37:07,347:INFO:Data preprocessed successfully.
+2024-08-04 12:37:13,558:INFO:EDA completed
+2024-08-04 12:37:13,563:INFO:Data split into train and test sets.
+2024-08-04 12:37:13,571:INFO:Data scaled successfully.
+2024-08-04 12:37:13,579:INFO:Logistic Regression model trained successfully.
+2024-08-04 12:37:13,770:INFO:Random Forest model trained successfully.
+2024-08-04 12:37:14,701:INFO:Random Forest Cross-Validation Scores: [0.77777778 0.7755102  0.79591837 0.76530612 0.79591837]
+2024-08-04 12:37:14,703:INFO:Random Forest Mean Accuracy: 0.7820861678004535
+2024-08-04 12:37:14,703:INFO:Random Forest Standard Deviation: 0.012050186172867515
+2024-08-04 12:37:14,705:INFO:Logistic Regression evaluation completed.
+2024-08-04 12:37:14,705:INFO:Accuracy: 0.7804878048780488
+2024-08-04 12:37:14,705:INFO:Confusion Matrix:
+array([[17, 25],
+       [ 2, 79]], dtype=int64)
+2024-08-04 12:37:14,719:INFO:Random Forest evaluation completed. Accuracy: 0.7804878048780488
+2024-08-04 12:37:14,720:INFO:Random Forest Confusion Matrix:
+array([[19, 23],
+       [ 4, 77]], dtype=int64)
